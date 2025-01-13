@@ -5,6 +5,7 @@ import { Providers } from './providers'
 import { MainLayout } from '@/layouts/MainLayout'
 import './styles/global.css'
 import './styles/tailwind.css'
+import './styles/game.css'
 
 function App() {
   return (
